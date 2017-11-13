@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">CryptoXage</string>
+    <string name="exchange_rates_updated">Currencies Updated! Scroll and Click on desired Currency / Cryptocurrency Exchange Rates to Convert</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="amount_hint">amount hint</string>
+    <string name="convert">convert</string>
+    <string name="eth_sign">ETH </string>
+    <string name="btc_sign">BTC</string>
+
+    <string name="refresh">Refresh</string>
+    <string name="order">Order</string>
+    <string name="exit">Exit</string>
+    <string name="instr1">Type in the desired amount of currency or coin you wish to convert</string>
+    <string name="quick_menu">Quick Menu</string>
+    <string name="fast_convert">Fast Convert</string>
+    <string name="an_alc_2_0">ALC 2.0 Intermediate Track Challenge Android App</string>
+    <string name="content_desc">content_desc</string>
+    <string name="v1">Version 1.0</string>
+    <string name="cx">CryptoXage ver 1.0 </string>
+    <string name="repo_name">X10 Github Repo</string>
+    <string name="quickcon">Quick Converter</string>
+</resources>
